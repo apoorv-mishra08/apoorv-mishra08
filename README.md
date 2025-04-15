@@ -1,6 +1,6 @@
 # Hi, I'm Apoorv 👋
 
-I'm currently pursuing my B.Tech in Information Technology and have been building my way through different areas in tech — from backend and databases to data analysis and machine learning. I enjoy working on things that involve structure, logic, and clear outcomes.
+I'm currently pursuing my B.Tech in Information Technology and have been building my way through different areas in tech from backend and databases to data analysis and machine learning. I enjoy working on things that involve structure, logic, and clear outcomes.
 
 
 Along the way, I’ve worked with Python, C++, SQL, and a few useful tools and frameworks across academic projects, and side experiments.
