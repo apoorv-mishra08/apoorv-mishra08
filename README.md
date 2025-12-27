@@ -1,14 +1,11 @@
 # Hi, I'm Apoorv 👋
 
-I'm currently pursuing my B.Tech in Information Technology and have been building my way through different areas in tech from backend and databases to data analysis and machine learning. I enjoy working on things that involve structure, logic, and clear outcomes.
+I am a B.Tech student in Information Technology, building a strong foundation across various areas of technology—from backend systems and databases to data analysis and machine learning. 
+I have worked with Python, C++, and Databases and Cloud through coursework, projects, and side experiments.
 
 
-Along the way, I’ve worked with Python, C++, SQL, and a few useful tools and frameworks across academic projects, and side experiments.
+I am also exploring quantitative economics and would like to contribute to research on risk and volatility in financial markets and central banking.
 
-Lately, I’ve developed a strong interest in **analytics**, **machine learning**, and **financial modeling**, especially in how data can be applied to make better decisions. I'm also exploring areas in **quantitative finance**, and I’d be keen to contribute to research around risk and volatility in Financial Markets.
-
-
-Mostly, I’m just focused on learning things that are useful and applying them in ways that make sense.
 
 
 
