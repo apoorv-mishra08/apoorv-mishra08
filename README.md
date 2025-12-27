@@ -1,6 +1,6 @@
 # Hi, I'm Apoorv 👋
 
-I am a B.Tech student in Information Technology, building a strong foundation across various areas of technology—from backend systems and databases to data analysis and machine learning. 
+I am a B.Tech student in Information Technology, building a strong foundation across various areas of technology from backend systems and databases to data analysis and machine learning. 
 I have worked with Python, C++, and Databases and Cloud through coursework, projects, and side experiments.
 
 
